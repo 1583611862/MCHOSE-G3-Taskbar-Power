@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+
+# IDE / editor
+.vs/
+.idea/
+*.suo
+*.DotSettings.user
+
+# OS metadata
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local runtime state
+settings.ini
+state.txt
+*.log
