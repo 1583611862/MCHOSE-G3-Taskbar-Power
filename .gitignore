@@ -17,6 +17,9 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
+# Local workspace metadata
+.workbuddy/
+
 # Local runtime state
 settings.ini
 state.txt
